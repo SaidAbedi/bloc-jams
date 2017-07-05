@@ -25,4 +25,7 @@ var animatePoints = function(points){
         }
       }
     })
-  };
+   };
+var myChange = document.getElementsByClassName('hero-title');
+console.log(myChange);
+myChange[0].innerHTML = "HELLO WORLD";
