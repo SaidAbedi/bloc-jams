@@ -23,7 +23,7 @@ var animatePoints = function(points){
       }
     });
   }
-  //    if (document.documentElement.scrollTop || document.body.scrollTop >= scrollDistance) {
+  //  if (document.documentElement.scrollTop || document.body.scrollTop >= scrollDistance) {
     //    animatePoints(pointsArray);
     //  }
   //  };

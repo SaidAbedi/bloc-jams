@@ -1,4 +1,3 @@
-alert("hr");
 var albumPicasso = {
      title: 'The Colors',
      artist: 'Pablo Picasso',
@@ -86,7 +85,7 @@ var albumPicasso = {
       }
   };
 
-  window.onload = function() {
+    window.onload = function() {
       setCurrentAlbum(albumPicasso);
       var albums = [albumPicasso, albumMarconi, albumCher];
       var index = 1;
