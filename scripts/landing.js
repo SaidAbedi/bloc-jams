@@ -21,4 +21,5 @@ var animatePoints = function() {
       }
     });
   });
+  
 //last updated//
